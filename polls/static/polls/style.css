@@ -1,9 +1,18 @@
-li a {
-  text-decoration: none;
+li, label{
+  padding-bottom: 15px;
+}
+
+ul {
+  list-style: none;
+}
+
+label {
+  display: inline-block;
 }
 
 a {
-  font-size: 20px;
+  text-decoration: none;
+  font-size: 25px;
   font-weight: bold;
   color: white;
 }
@@ -12,10 +21,11 @@ a:hover {
   color: #d1920ae1;
 }
 
+
 body {
   background: white url("images/background2.jpg") no-repeat;
   background-size: contain;
   text-align: center;
   margin-top: 150px;
-  color: red;
+  color: rgb(247, 230, 156);
 }
