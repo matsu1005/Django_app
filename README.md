@@ -1,1 +1,1 @@
-# Django_app
+# Djangoのチュートリアルを実施
